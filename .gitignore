@@ -1,0 +1,8 @@
+# env list
+.env.sh
+
+# for vscode
+.vscode
+
+# for jetbrains
+.idea
